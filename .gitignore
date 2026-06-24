@@ -1,0 +1,32 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local output files
+output/
+*.txt
+*.tmp
+reporte_*.txt
+auditoria_*.txt
+combinaciones*.txt
+prueba_velocidad_*.tmp
+
+# Local config
+.env
+*.env
+config.local.py
+settings.local.py
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
